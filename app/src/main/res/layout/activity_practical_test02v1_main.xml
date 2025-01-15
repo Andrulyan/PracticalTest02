@@ -29,4 +29,13 @@
         android:paddingTop="16dp"
         android:text="Rezultatele vor apărea aici"
         android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/showMapButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Afișează harta"
+        android:layout_marginTop="16dp"
+        android:minHeight="48dp"
+        android:padding="8dp" />
 </LinearLayout>
